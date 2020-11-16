@@ -27,7 +27,7 @@ Download or Clone the Code Files, and Run using 'go run NewsAggregator.go'
 
 ## Features
 * Concurrency
-* XML Parsing
+* Search
 
 ## Status
 Completed.
