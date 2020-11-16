@@ -1,6 +1,6 @@
 # News Aggregator
-> News Web App with Concurrency
-> <a href="https://young-peak-58834.herokuapp.com/">Deployed App</a>
+> News Web App with Concurrency<br>
+<a href="https://young-peak-58834.herokuapp.com/">Deployed App</a>
 
 ## Table of contents
 * [General info](#general-info)
