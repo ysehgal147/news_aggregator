@@ -1,5 +1,6 @@
 # News Aggregator
 > News Web App with Concurrency
+> <a href="https://young-peak-58834.herokuapp.com/">Deployed App</a>
 
 ## Table of contents
 * [General info](#general-info)
@@ -14,11 +15,7 @@
 Golang based Web App with Concurrency, uses Washigton Post's XML to fetch about 15,000 News Articles
 
 ## Screenshots
-![Example screenshot](https://raw.githubusercontent.com/ysehgal147/spotify-clone/main/Screenshot%202020-11-09%20at%202.53.40%20AM.png)
-
-![Example screenshot](https://raw.githubusercontent.com/ysehgal147/spotify-clone/main/Screenshot%202020-11-09%20at%202.53.47%20AM.png)
-
-![Example screenshot](https://raw.githubusercontent.com/ysehgal147/spotify-clone/main/Screenshot%202020-11-09%20at%202.54.06%20AM.png)
+![Example screenshot](https://raw.githubusercontent.com/ysehgal147/news_aggregator/main/Screenshot%202020-11-17%20at%2012.00.36%20AM.png)
 
 ## Technologies
 * Go
